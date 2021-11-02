@@ -1,0 +1,8 @@
+.root{
+    -fx-background-image: url("file:res/asset/photo/login.jpg");
+    -fx-background-position: center center;
+}
+
+.label{
+	-fx-font-weight: bold;
+}
